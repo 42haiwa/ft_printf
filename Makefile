@@ -1,5 +1,5 @@
 NAME	:=	libftprintf.a
-CFLAGS	:=	-Wall -Wextra -Werror -Ilibft -g
+CFLAGS	:=	-Wall -Wextra -Werror -Ilibft
 LDFLAGS	:=	-Llibft -lft
 
 RM		:=	rm -f
